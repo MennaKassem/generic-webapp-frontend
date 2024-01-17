@@ -20,7 +20,7 @@ npm run lint
 
 ### Support
 
-If you have any questions or problems with this project, please feel free to open an issue on GitHub (https://github.com/silvermx).
+If you have any questions or problems with this project, please feel free to open an issue on GitHub (https://github.com/MennaKassem).
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ### Roadmap

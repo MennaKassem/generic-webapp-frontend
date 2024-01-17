@@ -1,3 +1,3 @@
-docker build -t silvermx/generic-webapp-frontend:latest -t silvermx/generic-webapp-frontend:$(git rev-parse HEAD) .
-docker push silvermx/generic-webapp-frontend:latest
-docker push silvermx/generic-webapp-frontend:$(git rev-parse HEAD)
+docker build -t MennaKassem/generic-webapp-frontend:latest -t MennaKassem/generic-webapp-frontend:$(git rev-parse HEAD) .
+docker push MennaKassem/generic-webapp-frontend:latest
+docker push MennaKassem/generic-webapp-frontend:$(git rev-parse HEAD)
